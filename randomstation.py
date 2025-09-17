@@ -1,3 +1,8 @@
+'''
+Returns Name, CRS and Trimmed name of a Random British Railway station
+AmphibiousRock
+'''
+
 
 stations = [["name","crs","tiploc","easting","northing"],
 ["Aberdare Rail Station","ABA","ABDARE","300400","202800"],
@@ -2638,4 +2643,5 @@ def random_station():
 
 random_station()
     
+
     

@@ -1,3 +1,13 @@
+'''
+Code to generate the array style of list of stations.
+converts bare txt file to array style.
+DO NOT RUN THIS FILE.
+converted array is in randomstation.py
+
+AmphibiousRock
+'''
+
+
 f = open("stations.txt","rt")
 from time import sleep
 stations = []
@@ -52,4 +62,5 @@ s.close()
 
 print("3/3 |",len(stations),"Stations Exported To \" station2.txt \"")
 sleep(0.5)
+
 print("Complete.")

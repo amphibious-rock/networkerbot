@@ -1,3 +1,9 @@
+'''
+Python Module for networkerbot to return a random southern EMU or DMU image link
+Amphibious Rock
+'''
+
+
 from random import randint
 
 def RandomSouthern():
@@ -10,4 +16,5 @@ def RandomSouthern():
     MainLink = "https://raw.githubusercontent.com/amphibious-rock/networkerbot/refs/heads/main/"
     FullLink = MainLink+str(southern[unit])+"."+str(file_format[unit])
     #print(FullLink)
+
     return [southern,unit,FullLink]

@@ -147,7 +147,7 @@ def extract_stats():
     y_axis = month_data[1][0:int(year_data[3][int(now_month)-1])]
     #print(x_axis,"\n\n\n",y_axis,"\n\n",len(x_axis),len(y_axis))
     ax.plot(x_axis, y_axis)
-    ax.scatter(int(now_day)-1,int(month_data[1][int(now_day)-1]),c="#FF2300")
+    ax.scatter(int(now_day)-1,int(month_data[1][int(now_day)-1]),c="#FF2300") # point showing today
     fig.savefig('month.png')   # save the figure to file
     plt.close(fig)
 

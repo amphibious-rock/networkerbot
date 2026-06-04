@@ -19,24 +19,38 @@
         body {
             font-family: BritishRailLightNormal Regular, sans-serif;
             line-height: 1.6;
-            background-color: #ffffff;
+            background-color: #252525;
+            color: #ffffff
             
         }
+
+        @keyframes myAnimation {
+        0%   {color: #ffffff;}
+        20%  {color: #ffffff;}
+        40%  {color: #ed1c24;}
+        60%  {color: #2730ba;}
+        80% {color: #a8a8a8;}
+        100% {color: #ffffff}
+        }
         
+
+
         h1 {
             text-align: center;
         }
+
+        
         p {
             margin: 15px 0;
         }
 
         ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  background-color: #333333;
-  display: flex;
-}
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            background-color: #333333;
+            display: flex;
+        }
 
 ul li a {
   display: block;
@@ -49,14 +63,40 @@ ul li a:hover {
   background-color: #111111;
 }
 
+
+
 ul li a.active {
   background-color: #ed1c24;
+}
+
+a:link {
+  color: #ffffff;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #addbf1;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #70b7f1;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: #ed1c24;
+  background-color: transparent;
+  text-decoration: none;
 }
 
     </style>
 </head>
 
-<body>
+<body style="background-image: url('https://raw.githubusercontent.com/amphibious-rock/networkerbot/refs/heads/main/NSE310_312.jpg');">
     <div id="nav bar">
         <ul>
             <img src="https://github.com/amphibious-rock/networkerbot/blob/main/NSEDiscord.png?raw=true" alt="networker bot logo" style="width:auto;height:50px;">
@@ -70,9 +110,10 @@ ul li a.active {
         </ul>
     </div>
 
-    <div >
+    <div>
         <br><br>
-        <h1>Networker Bot</h1>
+        <h1 style="animation-name: myAnimation; animation-duration: 3s;">Networker Bot</h1>
+        <!-- By Tutenkhamun Sleeping - <a rel="nofollow" class="external free" href="https://www.flickr.com/photos/54543575@N08/5489303763/">https://www.flickr.com/photos/54543575@N08/5489303763/</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=106546157">Link</a> -->
         <center><img src="https://github.com/amphibious-rock/networkerbot/blob/main/NSEDiscord.png?raw=true" alt="networker bot logo" style="width:250px;height:250;"> </center>
         
         <center><p><a href="https://amphibious-rock.github.io/networkerbot/privacypolicy.html ">Privacy Policy</a></p>

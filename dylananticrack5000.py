@@ -8,14 +8,14 @@ GNU General Public License 3.0
 '''
 
 def anticrack(txt):
-    txt = txt.lower()
-    alphabet = "qwertyuiopasdfghjklzxcvnbm"
-    crack = [["c","k","q"],
+    txt = txt.lower() #converts to lowercase
+    alphabet = "qwertyuiopasdfghjklzcvnbm" #alphabet but without x
+    crack = [["c","k","q"], #alternative characters array
              ["r"],
              ["a","@","4","0"],
              ["h"]]
     
-    crack_b = [["c","k","q"],
+    crack_b = [["c","k","q"], # alternative characters array for separate algorithm
              ["r"],
              ["a"],
              ["h"]]
@@ -35,7 +35,7 @@ def anticrack(txt):
             progress_b_n +=1
             alphabet_chars+=1
         
-        elif not (i in alphabet):
+        elif (not (i in alphabet)) or (i == "x"):
             if progress_b_n > 0:
                 progress_b[progress_b_n][0] = True
                 progress_b_n +=1
@@ -47,8 +47,9 @@ def anticrack(txt):
             
             progress_n +=1
         
-        if progress_n == 5 or progress_b_n == 5:
+        if progress_n >= 5 and progress_b_n >= 5:
             break
+        
         
     progress_count = 0
     for char in progress:
@@ -64,10 +65,13 @@ def anticrack(txt):
         return True
     else:
         return False
-            
-while True:
-    word = input("Pls try and type the word crack in a way readable as crack, but isnt detected as the word crack: " )
+
+
+
+while True: 
+    word = input("Pls try and type the word crack in a way readable as crack, but isnt detected as the word crack: " ) 
+   
     if anticrack(word) == True:
-        print(Fore.RED+"\"crack\" detected"+Fore.RESET)
+        print(Fore.RED,"\"crack\" detected",Fore.RESET)
     else:
-        print(Fore.GREEN+"no \"crack\" detected\n"+Fore.RESET)
+        print(Fore.GREEN,"no \"crack\" detected\n",Fore.RESET)

@@ -65,13 +65,3 @@ def anticrack(txt):
         return True
     else:
         return False
-
-
-
-while True: 
-    word = input("Pls try and type the word crack in a way readable as crack, but isnt detected as the word crack: " ) 
-   
-    if anticrack(word) == True:
-        print(Fore.RED,"\"crack\" detected",Fore.RESET)
-    else:
-        print(Fore.GREEN,"no \"crack\" detected\n",Fore.RESET)

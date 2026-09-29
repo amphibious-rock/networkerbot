@@ -1,0 +1,389 @@
+search_term      ,     acronym      ,     definition     ,      see_also
+
+AAC , AAC , Annual capability conversation - process network rail uses to review an employee's track competence and ensure they meet the requirements to hold the competence.
+ABCL , ABCL , Automatic Barrier Crossing , Locally monitored by train crew
+ABS , ABS , Absolute Block System
+AC , AC , Alternating Current - refers to electricity flow
+ACF , ACF , Axle counter Failure
+ACI , ACI , Automatic Code Insertion. When a train terminates , the next working of its stock is automatically picked up by the signalling areas.
+ACM , ACM , Asbestos Containing Material
+ACOC , OC , Axle Counter Object Contoller , OC
+ACOP , ACOP , Approved Code of Practice  gives practical advice on how the law is to be complied with.
+ACS , ACS , Approach Control Signal
+ADD , ADD , Automatic Dropping Device - (Pantograph)
+AFA , AFA , Access For All
+AFC , AFC , Anticipated Final Cost
+AFR , AFR , Accident Frequency Rate- measure previously used in industry to measure safety performance
+AHB , AHB , Automated Half Barrier crossing. , AHBC
+AHBC , AHBC , Automatic Half Barrier Crossing. , AHB
+AHD , AHD , Aggregates Handling Depot
+AIP , AIP , Approval in Principal
+ALARP , ALARP , As Low As Reasonably Practicable - health and safety term to indicate risk has been reduced to the point where cost exceeds the benefits.
+ALCRM , ALCRM , All level crossing risk model.
+ALO , ALO , Any Line Open. This is to clarify the requirement that any open line that has the potential to be fouled by the work being carried out on the infrastructure by construction plant or machinery must be assessed and controls put in place to ensure that the works will not affect the safe passage of trains. Where the word Adjacent was previously used it was mistakenly believed that only the line immediately adjacent was to be considered.
+AMP , AMP , Asset Management Plan
+AOCL , AOCL , Automatic Open Crossing   locally monitored by train crew
+AOM , AOM , Area Operations Manager
+APT , APT , Advanced Passenger Train
+ARM , ARM , Active or Asbestos Risk Management
+ARS , ARS , Automatic Route Setting: information is sent to three computers - two of which have to agree an outcome before the route can automatically be set for the train.
+ARTP , ARTP , Association of Rail Training Providers
+ASC , ASC , Area Signalling Centre
+ASLEF , ASLEF , Associated Society of Locomotive Engineers and Firemen: union which represents many train drivers
+ATFS , ATFS , Auto Transformer Feeder Station
+ATOC , ATOC , Association of Train Operating Companies- which became the Rail Delivery Group (RDG) founded in 2017
+ATW , ATW , Authority to work
+ATWS , ATWS , Automatic Train Warning System
+AWS , AWS , Automatic Warning System
+AiTL , AiTL , Assessment in The Line - a way of checking and confirming competence though line management
+BAP , BAP , Biodiversity Action Plan
+BBRM , BBRM , Balfour Beatty Rail Maintenance Limited. (Track Renewals).
+BBRR , BBRR , Balfour Beatty Rail Renewals.
+BCR , BCR , Business Critical Rules
+BIM , BIM , Building Information Modelling [aka Better Information Management]
+BSN , BSN , Bridge Strike Nominee - A person who has been certified as competent to implement the procedures for reopening lines after a bridge strike
+BTC , BTC , British Transport Commission
+BTP , BTP , British Transport Police - Call on 61016 - We'll sort it. See it. Say it. Sorted.
+BTRC , BTRC , Booster Transformer Return Conductor
+CAF , CAF , Change Acceptance Form
+CAF , CAF , Change Acceptance Form
+CAN , CAN , Cancellation - WTT overlay , WTT
+CAPE , CAPE , Originally a railway telegram code to indicate that one or more trains will not now run- it is sometime still used as slang to mean anything that is cancelled.
+CAPEX , CAPEX , Capital Expenditure
+CASR , CASR , Cardiff Area Signalling Renewal
+CBI , CBI , Computer Based Interlocking
+CBTC , CBTC , Communications Based Train System
+CCIL , CCIL , Control Centre Incident Log - provides real time updates of all railway related incidents
+CCST , CCST , Credit Card Sized Ticket
+CCTV , CCTV , closed circuit television
+CD , CD , Close Doors platform indicator. A special signal to a train driver that a train is ready to depart from a station.
+CDG , CDG , Competence Development Group
+CDL , CDL , Central Door Locking
+CDM , CDM , Construction Design & Management Regulations
+CESS , CESS , The area either side of the railway immediately off the ballast shoulder. This usually provides a safe area for authorised workers to stand when trains approach.
+CIP , CIP , Competent Independent Person
+CIRAS , CIRAS , CIRAS is an independent , not-for-profit confidential reporting service for the transport sector. People can speak up about their health. safety and wellbeing concerns to CIRAS in complete confidence. CIRAS shares the concerns with the relevant company and then shares the company response with the person who raised the concern. Concerns can be raised for any company not just the person s employer. (updated July 2021)
+CIS , CIS , Customer Information System - station information screens , PIS
+CIS , CIS , See CISS , CISS
+COSHH , COSHH , Control of Substances Hazardous to Health
+COSS , COSS , Controller of Site Safety
+CPC , CPC , Circuit Protective Conductor
+CPP , CPP , Construction Phase Plan
+CRE , CRE , Contractors Responsible Engineer
+CRF , CRF , Change Request Form
+CRS , CRS , Computer Reservation System
+CRT , CRT , Critical Rail Temperature - The rail temperature to which CWR may be allowed to rise before measures to protect traffic must be taken. The CRT will depend on the stress-free temperature of the rail and the quantity and degree of consolidation of the ballast.
+CS , CS , Carriage Sidings
+CSA , CSA , Customer Service Assistant
+CSDE , CSDE , Correct Side Door Enabler
+CSR , CSR , Cab Secure Radio
+CT , CT , Current Transformer
+CTRL , CTRL , Channel Tunnel Rail Link , HS1
+CWN , CWN , Carriage Working Notice
+CWR , CWR , continuously welded rail
+DBSO , DBSO , Driving Brake Standard Open
+DC , DC , Direct Current - relating to Electrical flow - found in the Third (3rd) and Fourth (4th) rail systems to the South of London and the London Underground network
+DCO , DCO , Driver Controlled Operation - Like DOO but there is another member of staff present , DOO
+DCP , DCP , Designated Competent Person(s)
+DDA , DDA , Disability Discrimation ACt
+DEMIC , DEMIC , Derived from former telegraphic code indicating a failed train
+DEMU , DEMU , Diesel Electric Multiple Unit
+DEP , DEP , Designated Earthing Point
+DFL , DFL , Down Fast Line
+DFT , DfT , Department for Transport
+DISI , DISI , Defective In Service Instructions
+DLR , DLR , Dockland Light Railway
+DMMU , DMMU , Diesel Mechanical Multiple Unit
+DMU , DMU , Diesel Multiple Unit
+DNO , DNO , Distribution Network Operator - this relates to electrification and power supplies for stations etc.
+DOO , DOO , Driver Only Operation - no guard is needed on the train.
+DOS , DOS , Dimensions Of Safety
+DPE , DPE , Designated Project Engineer
+DPS , DPS , Depot Protection System
+DRA , DRA , Driver s Reminder Appliance: a device in the cab to enable the driver to set a reminder that the signal ahead is at danger.
+DRAM , DRAM , Director Route Asset Management
+DRS , DRS , Dynamic Route Setting
+DSD , DSD , Driver s Safety Device: device on traction rolling stock that will stop the train if the driver becomes incapacitated. Popularly knows as the  Deadman s Pedal  or  Deadman s Handle
+DSL , DSL , Down Slow Line
+DU , DU , A network rail delivery unit.
+DVD , DVD , Driver Vigilance Device
+DVT , DVT , Driving Van Trailer
+DWWP , DWWP , Delivering Work Within Possessions.
+E&P , E&P , Electrification and Plant (Power)
+EAS , EAS , Engineering Access Statement (used to be known as Rules of Route) - an agreement for disruptive access with the TOC to allow the planning of services around a possession
+ECML , ECML , East Coast Mainline
+ECO , ECO , Electrical Control Operator , ECR , ECRO , ECROM
+ECR , ECR , Electrical Control Room: responsible for control of current in the overhead lines and third rail. , ECO , ECRO , ECROM
+ECRO , ECRO , Electrical Control Room Operator , ECO , ECR , ECROM
+ECROM , ECROM , Electrical Control Room Operator Manager , ECO , ECR , ECRO
+ECS , ECS , Acronym for Empty Coaching Stock- used to describe passenger trains not currently carrying passengers
+EEN , EEN , Examining Engineer s Nominee (can authorise opening at linespeed for bridge strikes).
+EGI , EGI , Equipment Group Identifier
+EGIP , EGIP , Edinburgh - Glasgow Improvement Programme
+EIA , EIA , Environmental Impact Assessment
+EIS , EiS , Entry into Service
+ELR , ELR , Engineer s Line Reference- a way to identify location/ structure on plans and directories
+EMC , EMC , Electromagnetic capability EMC aims to ensure that equipment items or systems will not interfere with or prevent each other's correct operation through spurious emission and absorption of the unwanted effects (electromagnetic interference - EMI) from voltages in adjacent cables or equipment. EMC is sometimes referred to as EMI Control and in practice EMC and EMI are frequently referred to as a combined term "EMC/EMI".
+EMI , EMI , Electromagnetic Interference
+EMU , EMU , Electric Multiple Unit
+EPR , EPR , Engineers Possession Reminder
+ERTMS.ERTMS , European Rail Traffic Management System
+ES , ES , Engineering Supervisor
+ESR , ESR , Emergency Speed Restriction- An unplanned reduction in train speed imposed between defined locations along a track. A speed restriction not shown in the Weekly Operating Notice.
+ETCS , ETCS , European train control system
+FDM , FDM , Frequency Division Multiplexing
+FFF , FFF , First Filament Failure: refers to a failure in a signal lamp which has more than one filament for safety. The bulb must be replaced , but the signal works normally and cautioning of trains is not necessary.
+FLIRT , FLIRT , Fast Light Innovative Regional Train - A Stadler EMU
+FOC , FOC , Freight Operating Company
+FPI , FPI , Facing Points Indicator , FPL
+FPL , FPL , Facing Point Lock: a device to ensure that points which are facing the approaching trains are locked in position
+FRL , FRL , Fixed Red Light
+FTC , FTC , Failed to call
+FTN , FTN , Fixed Telecom Network
+FTS , FTS , Failure To Stop. Passenger trains failing to stop at booked stations or locations
+FWC , FWC , Free Wheel Clearance
+FWI , FWI , Fatality Weighted Injuries/Index- method to work out safety performance
+FWP , FWP , Free Wheel Passage
+GDPR , GDPR , The General Data Protection Regulation.
+GFTN , GFTN , Global Forest Trade Network
+GOP , GOP , Guard Operating Panel
+GPL , GPL , Ground Position Light: a low-level shunting signal displaying lights rather than a disc.
+GSM , GSM , Global System For Mobile Telecommunications , GSM-R
+GSM-R , GSM-R , Global System For Mobile Telecommunications for Railways , GSM
+GUPAT , GUPAT , Give Up Possession Around Train. At the end of a possession if an engineering train or on-track-machine needs to be moved Give Up Possession Around Train means that all worksites are given up to allow the train or machine to be moved.
+GWML , GWML , Great Western Mainline
+GZAC , GZAC , Green Zone Access Controller , GZAM
+GZAM , GZAM , Green Zone Access Manager , GZAC
+HASAW , HASAW , Health and Safety at Work Act- the health and safety law passed in 1974
+HAVS , HAVS , Hand Arm Vibration Syndrome
+HAZOP , HAZOP , Hazard and Operability Analysis
+HLOS , HLOS , High Level Output Specification
+HOPS , HOPS , High Output Power Systems
+HS1 , HS1 , HS1   UK s first High Speed (over 140mph) line , London   Essex   Kent   Channel Tunnel , HS2
+HS2 , HS2 , High Speed 2 , HS1
+HSE , HSE , Health and Safety Executive
+HST , HST , High Speed Train , may refer to class 43 IC125 units
+HV , HV , High Visibility or High Voltage
+IBJ , IBJ , Insulated Block Joint: a rail joint that separates circuits
+ICC , ICC , Integrated Control Centre
+ICI , ICI , Industry Common Induction
+IDC , IDC , Interdisciplinary Check - a cross check across all disciplines in a project
+IDD , IDD , IDD - Interface Definition Document
+IECC , IECC , Integrated Electronic Control Centre: a power signalbox where all data displays; safety interlocking; etc. are computer controlled and under normal circumstances trains are signalled automatically according to their TRUST Train ID
+IET , IET , Intercity Express Train
+IFS , IFS , Individual Function Switch
+IP , IP , Infrastructure Projects or Injured Person
+IRJ , IRJ , Insulated Rail Joint , IBJ
+ISLG , ISLG , Infrastructure Safety Liaison Group
+IVRS , IVRS , Interactive Voice Radio System
+JNAP , JNAP , Joint Network Availability Plans. These are plans for all Network Rail routes agreed between Network Rail and each of the Train Operating Companies (TOCs) especially focussed on the proposed category 'A' routes to uphold the Network Rail promise to reduce disruption during engineering work
+KGT , KGT , A generic term to describe a road-rail vehicle.
+KPI , KPI , Key Performance Indicator
+KRS , KRS , KRS - Key route strategy
+KV , Kv , Kilovolt - 1000v
+LFC , LFC , Leaf Fall Contamination: the phenomenon where the action of certain types of leaves being crushed between the rail head and train wheels can cause a build-up of residue on rails can create problems such as wheel slip; impaired braking and failure in the operation of track circuits.
+LOLER , LOLER , Lifting Operations Lifting Equipment Regulations
+LOM , LOM , Local Operations Manager
+LOS , LOS , Limit of Shunt Indicator; the limit in which a movement can proceed in the wrong direction. Normally used to get trains behind a signal to then move forward.
+LOWS , LOWS , Lookout Warning System
+LTIFR , LTIFR , LTIFR Lost Time Injury Frequency Rate Used as a safety measure / indicator
+LTP , LTP , Long Term Plan
+LTS , LTS , Long Term Storage
+LUL , LUL , London Underground Limited
+LWL , LWL , Long Welded Rail: usually delivered to renewal sites in 300ft or 600ft lengths (also known as CWR).
+LX , LX , level crossing
+M&EE , M&EE , Mechanical and Electrical Engineering (or Engineer)
+MEWP , MEWP , Mobile Elevated Working Platform
+MIMC , MIMC , Maintenance Infrastructure Manager In Charge
+MLRI , MLRI , Multi-Lamp Route Indicator
+MOM , MOM , Mobile Operations Manager
+MPV , MPV , Multi-Purpose Vehicle; a specialist combination set for de-icing- fire fighting- water jetting and applying Sandite
+MSD , MSD , Musculoskeletal Disorders
+MVLC , MVLC , Medium Voltage Line Cover -Provides insulation for catenary droppers and associated conductors against contact with trees birds wildlife or even vehicles and vandalism
+MWL , MWL , Miniature Warning lights - used on some footpath crossings
+NCC , NCC , Formerly the National Control Centre- now known as the NOC
+NDA , NDA , Not Described Alarm. Indication received on a Train Describer when a Track Circuit/Signal berth becomes occupied and no train I.D. is transposed. Can be caused by a Track Circuit "flicking" or a Train I.D. failing to step from the previous Signal Berth.
+NLC , NLC , National Location Codes
+NOC , NOC , National Operations Centre
+NPCCS , NPCCS , Non-Passenger Carrying Coach Stock; postal and parcel vehicles.
+NR , NR , Network Rail
+NRN , NRN , National Radio Network
+NROL , NROL , Network Rail Online Logistics - the ordering and planning system for all railborne materials.
+NRS , NRS , National Reservation System
+NRT , NRT , Network Rail Telecom
+NSC , NSC , National Supply Chain
+NVQ , NVQ , National Vocational Qualification
+NX , NX , Entrance exit system (signal-box control panel)
+OAO , OAO , Open Access Operator
+OC , OC , Object Contoller , ACOC
+OCS , OCS , One Control Switch: a method or route setting
+ODM , ODM , ODM - Operations Delivery Manager
+OHE , OHE , Overhead Line Equipment: the equipment suspended over the railway for supplying electricity to electric trains. Can also be reffered to as OHLE , OHLE
+OHLE , OHLE , Overhead Line Engineer - can be confused with OHE , OHE
+OHNS , OHNS , Overhead Line Neutral Section
+OLEMI , OLEMI , Overhead Line Equipment Master Index
+OOG , OOG , Out Of Gauge
+OPI , OPI , Outside Party Interest
+ORR , ORR , Office of Rail and Road
+OSS , OSS , Overspeed sensor located some distance in rear of signal which will activate if train passes over it at too high a speed when approaching the signal at danger.
+OTM , OTM , On Track Machine , OTP
+OTMR , OTMR , On Train Monitoring Recorder
+OTP , OTP , On Track Plant , OTM
+P&C , P&C , Points and Crossings
+P&M , P&M , Plant and Machinery
+PAP , PAP , Possession Arrival Point
+PCB , PCB , Polychlorinated Biphenyls  and equivalent compounds are harmful to humans and animals; particularly those in an aquatic environment or feeding on aquatic animals; because of their toxicity; persistence and tendency to accumulate in body tissue.
+PCL , PCL , Principal Contractor Licence
+PCP , PCP , Project contingency plan
+PD&T , PD&T , Professional Development and Training
+PDP , PDP , Possession Departure Point or Personal Development Plan
+PDSW , PDSW , Planning and Delivering Safe Work
+PEARS , PEARS , Paladin Data Extract and Reporting System: a versatile train performance measurement facility producing analysis reports focusing on train performance and delay attribution , YAYPEARS
+PED , PED , Platform Edge Doors
+PERSR , PERSR , PERSR - Precautionary Extreme Rainfall Speed Restriction
+PGI , PGI , Planned General Inspection: Escalators and all similar public equipment (lifts and travelators etc) are inspected daily by managed station staff as part of the planned general inspection daily regime
+PICOP , PICOP , Person in Charge of a Possession
+PICOW , PICOW , Old Term- Person in Charge of work
+PIS , PIS , Passenger Information System , CIS
+PLB , PLB , Possession Limit Board
+PLJI , PLJI , Position Light Junction Indicator
+PLOD , PLOD , Patrolman s Lockout Device (trackside staff protection system); a device which when used with the Signaller s permission returns a bi-directional line to a single directional line
+PLPR , PLPR , Plain Line Pattern Recognition
+PNB , PnB , Personal or Physical Needs Break: a guaranteed break in a Driver s turn of duty when free from duty.
+POE , POE , Point Operating Equipment
+POL , POL , Rail Plant Operating Company in Possessions Licence
+POM , POM , Possession Optimisation Manager
+PON , PON , Periodical Operating Notice. a bi-monthly publication which contains all current amendments to the books of Rules and Regulations and certain miscellaneous notices.
+POS , POS , Plant Operating Scheme
+POSE , POSE , Person operating signalling equipment
+PP , PP , Push Pull
+PPE , PPE , Personal Protective Equipment
+PPI , PPI , Points Position Indicator
+PPM , PPM , Public Performance Measure
+PPS , PPS , Possession Planning System - it manages the process for booking and recording of national engineering and access requirements (possessions. worksites. temporary speed restrictions).
+PRI , PRI , Preliminary Route Indicator
+PSB , PSB , Power signal box
+PSLG , PSLG , Project Safety Leadership Group
+PSR , PSR , Permanent Speed Restriction
+PTS , PTS , Personal Track Safety- Competence certificate to enable as to correctly determine their responsibilities and duties when working  On or Near the Line  on the Railway Infrastructure
+PWAY , P-Way , Permanent Way. The track of a railway line; the ballast , sleepers and rails.
+RA , RA , Route Availability or Right Away platform indicator
+RAIB , RAIB , Rail Accident Investigation Branch. The RAIB is the government railway accident investigation organization for the UK. It investigates railway accidents/ incidents on the UK s railways involving train movements to improve safety- not to establish blame.
+RAM , RAM , Route Access Manager Route Asset Manager or Reliability Availability Maintainability Depends on context- can be either: Route Access Manager (e.g. buildings- OLE- P&D- Telecoms)- Route Asset Manager- or Reliability Availability Maintainability (in connection with systems engineering- reliability engineering and quality of service)
+RCC , RCC , Railway Contractors Certificate
+RDG , RDG , Rail Delivery Group
+RETB , RETB , Radio Electronic Token Block  is a system of railway signalling
+RFID , RFID , Radio Frequency IDentification
+RG , RG , Miniature red/green warning lights (at level crossing).
+RIAG , RIAG , Rail Industry Assurance group
+RIC , RIC , Rail Incident Commander: strategic level overview of incident management.
+RIDDOR , RIDDOR , Reporting of Injuries- Diseases or Dangerous Occurrence Regulation- legislation guiding the reporting of injuries.
+RIEF , RIEF , Rail Industry Environment Forum
+RIO , RIO , Rail Incident Officer: normally a Network Rail employee who takes control at the scene of a rail incident or accident. Works with Incident Officers from emergency services to co-ordinate the tasks at the scene.
+RMD , RMD , Route Managing Director
+RME , RME , Rail Management Engineer
+RMT , RMT , Railway. Maritime and Transport Union
+RO , RO , Rail Operator
+ROGS , ROGS , - Railways and Other Guided Transport Systems (Safety) Regulations
+ROSCO , ROSCO , Rolling stock company / Rolling stock leasing company
+RPOS , RPOS , Responsible Person On Site
+RRAP , RRAP , RRAP   Road Rail Access Point
+RRV , RRV , Road Rail Vehicle. A vehicle that can travel on the road under its own power and also travel on the rails by virtue of a rail wheel guidance system
+RSC , RSC , Return Screening Conductor or Radio Survey Coach
+RSO , RSO , Residual Switch Opening
+RSSB , RSSB , Rail Safety and Standards Board
+S&C , S&C , switches and crossings- the specially machined rails designed to permit trains to transfer between tracks.
+S&T , S&T , Signalling and Telecomms (Previously Signals and Telegraphs)
+SATS , SATS , Sectioning Auto-Transformer Site
+SCADA , SCADA , Supervisory Control and Data Acquisition
+SCWO , SCWO , Showing Clear When Occupied
+SDO , SDO , Selective Door Opening
+SETTOL , SETTOL , Seasonal treatment on-Line. It s a database that is used to manage the national seasonal infrastructure treatment plan
+SFAIRP , SFAIRP , So Far As Is Reasonably Practicable (SFAIRP): A guideline for rail organisations to assist them in developing a decision making framework
+SGT , SGT , Structure Gauging Train
+SHELT , SHELT , Safety- Health and Environmental Leadership Team
+SIMBIDS , SIMBIDS , Simplified Bi-Directional Signalling: signalling provided to allow trains to run in the  wrong  direction during engineering work and line blockages etc. without resorting to pilotmen
+SIP , SIP , Safety Improvement Programme
+SISS , SISS , Station information and security systems - customer information screens etc. (also partly known as CIS
+SLU , SLU , Standard Length Unit: the measurement of the shortest wagon (21ft); used to describe the length of vehicles and loops so it is known if trains can be accommodated
+SLW , SLW , Single Line Working
+SMART , SMART , Signal Monitoring And Reporting to TRUST: provides information automatically on actual train running.
+SMTH , SMTH , Signal Maintenance Testing Handbook
+SPAD , SPAD , Signal Passed at Danger.
+SPT , SPT , Signal Post Telephone. A telephone located on or near a signal where the driver can directly communicate with the signaller. Also used for any other railway staff to contact the signal box.
+SSA , SSA , Self Supporting Anchor (for OLE structures) , OLE
+SSI , SSI , Special Site Inspection or Investigation
+SSO , SSO , Special Stop Order. Passenger trains stopping additionally at stations.
+SSOW , SSoW , Safe System of Work Planning/Pack - these are plans that are to ensure a safe system of work is in place before work starts
+SSOWP , SSoWP , See SSOW , SSOW
+SSSI , SSSI , Site of Special Scientific Interest
+STANME , STANME , Station Number Names
+STANOX , STANOX , Station Numbers
+STE , STE , Safety Technical Engineering directorate within Network Rail- replaced with the Technical Authority (TA) in 2020
+STP , STP , Short Term Plan
+SWL , SWL , Safe Work Leader - person accountable for safe delivery of work within a worksite
+SWM , SWM , Safe Work Manager
+SWML , SWML , South Western Mainline
+SWMP , SWMP , Site Waste Management Plans
+T&V , T&V , Tresspass and Vandalism , now called railway crime
+TA , TA , Technical Authority- a directorate of Network Rail
+TAC , TAC , Train Arrived Complete  - The authorised memeber of traincrew will operate the Train Arrived Complete switch located on the platform on which a train has arrived complete with tail lamp , under absolute block signalling when the train has not passed the signal box for the signaller to observe the tail lamp. This may be because the signal box is in advance of the platform of arrival in the direction of travel of the train. This will enable the signaller to give "Out of Section" to the signaller in rear.
+TASS , TASS , Tilt Authorisation and Speed Supervision system - to authorise tilting operation only on tilt cleared routes and to prevent the line speed being exceeded when these trains are operating in tilting mode.
+TBS , TBS , Task Briefing Sheet
+TCB , TCB , Track Circuit Block- A modification of the Absolute Block System- employing track circuiting throughout. A train may proceed as soon as the line is clear to the next stop signal plus the required overlap beyond that signal
+TCF , TCF , Track Circuit Failure
+TCMI , TCMI , Tunnel Condition Marking Index
+TCMU , TCMU , Track Condition Monitoring Unit
+TCOD , TCOD , Track Circuit Operating Device. Used to activate track circuits so that they show occupied
+TCS , TCS , Train Control System
+TIPLOC , TIPLOC , Timing Point Locations
+TLP , TLP , Thameslink Programme
+TMD , TMD , Traction Maintenance Depot
+TNC , TNC , Temporary Non Conformance /Compliance
+TOC , TOC , Train Operating Company
+TOPS , TOPS , Total Operations Processing System
+TORR , TORR , Train Operated Route Release
+TOWS , TOWS , Train Operating Warning System: gives audible warning to those working on the track of the approach of the train
+TPAT , TPAT , Take Possession Around Train.  At the start of a possession an engineering train or on-track-machine may be moved into position before any worksites are set up. The term for this is Take Possession Around Train.
+TPWS , TPWS , Train Protection Warning System
+TRAMM , TRAMM , Track Renewal and Maintenance Machine
+TRB , TRB , Train Register Book
+TRT , TRT , Track Recording Train
+TRTS , TRTS , Train Ready To Start
+TRU , TRU , Track Recording Unit
+TSA , TSA , Track Safety Alliance
+TSI , TSI , echnical Specifications for Interoperability
+TSR , TSR , Temporary Speed Restriction
+TSS , TSS , Train Stop Sensor which is located immediately on the approach side of a signal and will activate if a train passes it when signal is at danger
+TSSA , TSSA , Transport Salaried Staff Association union
+TTC , TTC , Twin Track Cantilever - a form of OLE structure with one post and carrying two sets of catenary from one cantilevered boom
+TUPE , TUPE , Transfer of Undertakings (Protection of Employment) Regulations 1981; legislation that protects earnings and conditions when employees transfer from one employer to another
+TVM , TVM , Ticket vending machine
+TVP , TVP , Track Visitors Permit- permit to allow temporary accompanied access to work site.
+UDO , UDO , Unit Door Opening
+UFL , UFL , Up Fast Line
+UFN , UFM , Until Further Notice
+UPS , UPS , Uninterrupted Power Supply
+USL , USL , Up Slow Line
+UTU , UTU , Ultrasonic Testing Unit
+UTX , UTX , Under-Track Crossing   a conduit to carry cables under the line to the other side
+UWC , UWC , User Worker Crossing
+VCAN , VCAN , Very short term plan cancellations - WTT Overlay , VSTP
+VCB , VCB , 'Vacuum Circuit Breaker' (VCB)  VCB cuts off the power from the OLE to the train
+VIU , VIU , Video Inspection Train
+VSTP , VSTP , Very Short Term Plan: the processing of track access bids received by Operational Planning up to two days before possession
+VT , VT , Voltage Transformer
+VTS , VTS , Vehicle Tracking System
+W&G , W&G , Welding and Grinding
+WAR , WAR , Work As Required; a method of working mainly used by train crews for flexibility
+WARA , WARA , Work Activity Risk Assessment
+WCML , WCML , West Coast Mainline
+WEN , WEN , Weekly Engineering Notice: contains details of the engineering work for the forthcoming week that train crews or others may require
+WILD , WILD , Wheel Impact Load Detector: device that measures the force exerted on the rail by each wheel of a train as it passes and activates an alarm if any is excessive.
+WON , WON , Weekly Operating Notice: contains the engineering work for the forthcoming week and any other information train crews may require.
+WPP , WPP , Work Package Plan
+WSF , WSF , Wrong Side Failure: something which fails in an unsafe condition.WSSF
+WSSF , WSSF , Wrong Side Signalling Failure.  A wrong side failure occurs when equipment or a system does not fail safe. In other words a failure occurs which could lead to an accident , WSF
+WTT , WTT , Working Timetable -A timetable used by railway operators which includes the times of all regularly run trains (not just passenger trains).
+YAY , YAY , Pears
+YAYPEARS , YAYPEARS , Yay Pears

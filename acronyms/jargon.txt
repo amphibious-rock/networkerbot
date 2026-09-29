@@ -1,4 +1,4 @@
-search_term      ,     acronym      ,     definition     ,      see_also
+search_term       ,      acronym       ,      definition      ,       see_also
 
 AAC , AAC , Annual capability conversation - process network rail uses to review an employee's track competence and ensure they meet the requirements to hold the competence.
 ABCL , ABCL , Automatic Barrier Crossing , Locally monitored by train crew
@@ -31,7 +31,9 @@ ARTP , ARTP , Association of Rail Training Providers
 ASC , ASC , Area Signalling Centre
 ASLEF , ASLEF , Associated Society of Locomotive Engineers and Firemen: union which represents many train drivers
 ATFS , ATFS , Auto Transformer Feeder Station
+ATO , ATO , Automatic Train Operation - method of automatically operating trains where the driver is not needed or for supervision at most.
 ATOC , ATOC , Association of Train Operating Companies- which became the Rail Delivery Group (RDG) founded in 2017
+ATP , ATP , Automatic Train Protection (ATP) is a method of beacon based railway cab signalling developed by British Rail. The system was installed on the Great Western Main Line. It was used for overspeed and SPAD protection , AWS , TPWS , SPAD
 ATW , ATW , Authority to work
 ATWS , ATWS , Automatic Train Warning System
 AWS , AWS , Automatic Warning System
@@ -159,7 +161,7 @@ HAVS , HAVS , Hand Arm Vibration Syndrome
 HAZOP , HAZOP , Hazard and Operability Analysis
 HLOS , HLOS , High Level Output Specification
 HOPS , HOPS , High Output Power Systems
-HS1 , HS1 , HS1   UK s first High Speed (over 140mph) line , London   Essex   Kent   Channel Tunnel , HS2
+HS1 , HS1 , HS1   UK s first High Speed (over 140mph) line , HS2 , CTRL
 HS2 , HS2 , High Speed 2 , HS1
 HSE , HSE , Health and Safety Executive
 HST , HST , High Speed Train , may refer to class 43 IC125 units

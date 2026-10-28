@@ -36,7 +36,7 @@ ATOC , ATOC , Association of Train Operating Companies- which became the Rail De
 ATP , ATP , Automatic Train Protection (ATP) is a method of beacon based railway cab signalling developed by British Rail. The system was installed on the Great Western Main Line. It was used for overspeed and SPAD protection , AWS , TPWS , SPAD
 ATW , ATW , Authority to work
 ATWS , ATWS , Automatic Train Warning System
-AWS , AWS , Automatic Warning System
+AWS , AWS , Automatic Warning System , TPWS
 AiTL , AiTL , Assessment in The Line - a way of checking and confirming competence though line management
 BAP , BAP , Biodiversity Action Plan
 BBRM , BBRM , Balfour Beatty Rail Maintenance Limited. (Track Renewals).
@@ -93,6 +93,7 @@ DEMU , DEMU , Diesel Electric Multiple Unit
 DEP , DEP , Designated Earthing Point
 DFL , DFL , Down Fast Line
 DFT , DfT , Department for Transport
+DFTO , DFTO , DfT Operator- UK operator of last resort , TOC
 DISI , DISI , Defective In Service Instructions
 DLR , DLR , Dockland Light Railway
 DMMU , DMMU , Diesel Mechanical Multiple Unit
@@ -127,6 +128,7 @@ EIS , EiS , Entry into Service
 ELR , ELR , Engineer s Line Reference- a way to identify location/ structure on plans and directories
 EMC , EMC , Electromagnetic capability EMC aims to ensure that equipment items or systems will not interfere with or prevent each other's correct operation through spurious emission and absorption of the unwanted effects (electromagnetic interference - EMI) from voltages in adjacent cables or equipment. EMC is sometimes referred to as EMI Control and in practice EMC and EMI are frequently referred to as a combined term "EMC/EMI".
 EMI , EMI , Electromagnetic Interference
+EMR , EMR , East Midlands railway , TOC
 EMU , EMU , Electric Multiple Unit
 EPR , EPR , Engineers Possession Reminder
 ERTMS.ERTMS , European Rail Traffic Management System
@@ -135,7 +137,7 @@ ESR , ESR , Emergency Speed Restriction- An unplanned reduction in train speed i
 ETCS , ETCS , European train control system
 FDM , FDM , Frequency Division Multiplexing
 FFF , FFF , First Filament Failure: refers to a failure in a signal lamp which has more than one filament for safety. The bulb must be replaced , but the signal works normally and cautioning of trains is not necessary.
-FLIRT , FLIRT , Fast Light Innovative Regional Train - A Stadler EMU
+FLIRT , FLIRT , Fast Light Innovative Regional Train - A Stadler EMU , EMU
 FOC , FOC , Freight Operating Company
 FPI , FPI , Facing Points Indicator , FPL
 FPL , FPL , Facing Point Lock: a device to ensure that points which are facing the approaching trains are locked in position
@@ -146,14 +148,17 @@ FTS , FTS , Failure To Stop. Passenger trains failing to stop at booked stations
 FWC , FWC , Free Wheel Clearance
 FWI , FWI , Fatality Weighted Injuries/Index- method to work out safety performance
 FWP , FWP , Free Wheel Passage
+GBR , GBR , Great British Railways- state-owned operator of nationalised train services in England. , TOC
 GDPR , GDPR , The General Data Protection Regulation.
 GFTN , GFTN , Global Forest Trade Network
 GOP , GOP , Guard Operating Panel
 GPL , GPL , Ground Position Light: a low-level shunting signal displaying lights rather than a disc.
 GSM , GSM , Global System For Mobile Telecommunications , GSM-R
 GSM-R , GSM-R , Global System For Mobile Telecommunications for Railways , GSM
+GTR , GTR , Greater Thameslink Railway , TOC
 GUPAT , GUPAT , Give Up Possession Around Train. At the end of a possession if an engineering train or on-track-machine needs to be moved Give Up Possession Around Train means that all worksites are given up to allow the train or machine to be moved.
-GWML , GWML , Great Western Mainline
+GWML , GWML , Great Western Mainline , GWR
+GWR , GWR , Great Western Railway , TOC , GWML
 GZAC , GZAC , Green Zone Access Controller , GZAM
 GZAM , GZAM , Green Zone Access Manager , GZAC
 HASAW , HASAW , Health and Safety at Work Act- the health and safety law passed in 1974
@@ -184,6 +189,7 @@ KPI , KPI , Key Performance Indicator
 KRS , KRS , KRS - Key route strategy
 KV , Kv , Kilovolt - 1000v
 LFC , LFC , Leaf Fall Contamination: the phenomenon where the action of certain types of leaves being crushed between the rail head and train wheels can cause a build-up of residue on rails can create problems such as wheel slip; impaired braking and failure in the operation of track circuits.
+LNER , LNER , London North Eastern Railway , TOC
 LOLER , LOLER , Lifting Operations Lifting Equipment Regulations
 LOM , LOM , Local Operations Manager
 LOS , LOS , Limit of Shunt Indicator; the limit in which a movement can proceed in the wrong direction. Normally used to get trains behind a signal to then move forward.
@@ -191,7 +197,7 @@ LOWS , LOWS , Lookout Warning System
 LTIFR , LTIFR , LTIFR Lost Time Injury Frequency Rate Used as a safety measure / indicator
 LTP , LTP , Long Term Plan
 LTS , LTS , Long Term Storage
-LUL , LUL , London Underground Limited
+LUL , LUL , London Underground Limited , TfL
 LWL , LWL , Long Welded Rail: usually delivered to renewal sites in 300ft or 600ft lengths (also known as CWR).
 LX , LX , level crossing
 M&EE , M&EE , Mechanical and Electrical Engineering (or Engineer)
@@ -277,6 +283,7 @@ RDG , RDG , Rail Delivery Group
 RETB , RETB , Radio Electronic Token Block  is a system of railway signalling
 RFID , RFID , Radio Frequency IDentification
 RG , RG , Miniature red/green warning lights (at level crossing).
+RHTT , RHTT , Rail Head Treatment Train- blasts high pressure water to clean the rail head.
 RIAG , RIAG , Rail Industry Assurance group
 RIC , RIC , Rail Incident Commander: strategic level overview of incident management.
 RIDDOR , RIDDOR , Reporting of Injuries- Diseases or Dangerous Occurrence Regulation- legislation guiding the reporting of injuries.
@@ -337,6 +344,8 @@ TCF , TCF , Track Circuit Failure
 TCMI , TCMI , Tunnel Condition Marking Index
 TCMU , TCMU , Track Condition Monitoring Unit
 TCOD , TCOD , Track Circuit Operating Device. Used to activate track circuits so that they show occupied
+TFL , TfL , Transport for London
+TFW , TfW , Transport for Wales , TOC
 TCS , TCS , Train Control System
 TIPLOC , TIPLOC , Timing Point Locations
 TLP , TLP , Thameslink Programme
@@ -347,7 +356,7 @@ TOPS , TOPS , Total Operations Processing System
 TORR , TORR , Train Operated Route Release
 TOWS , TOWS , Train Operating Warning System: gives audible warning to those working on the track of the approach of the train
 TPAT , TPAT , Take Possession Around Train.  At the start of a possession an engineering train or on-track-machine may be moved into position before any worksites are set up. The term for this is Take Possession Around Train.
-TPWS , TPWS , Train Protection Warning System
+TPWS , TPWS , Train Protection Warning System , AWS
 TRAMM , TRAMM , Track Renewal and Maintenance Machine
 TRB , TRB , Train Register Book
 TRT , TRT , Track Recording Train
@@ -384,7 +393,7 @@ WEN , WEN , Weekly Engineering Notice: contains details of the engineering work 
 WILD , WILD , Wheel Impact Load Detector: device that measures the force exerted on the rail by each wheel of a train as it passes and activates an alarm if any is excessive.
 WON , WON , Weekly Operating Notice: contains the engineering work for the forthcoming week and any other information train crews may require.
 WPP , WPP , Work Package Plan
-WSF , WSF , Wrong Side Failure: something which fails in an unsafe condition.WSSF
+WSF , WSF , Wrong Side Failure: something which fails in an unsafe condition. , WSSF
 WSSF , WSSF , Wrong Side Signalling Failure.  A wrong side failure occurs when equipment or a system does not fail safe. In other words a failure occurs which could lead to an accident , WSF
 WTT , WTT , Working Timetable -A timetable used by railway operators which includes the times of all regularly run trains (not just passenger trains).
 YAY , YAY , Pears
